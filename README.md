@@ -1,3 +1,11 @@
+# Preview
+
+![](https://cdn.discordapp.com/attachments/1030994734182834228/1037934752545644645/Desktop_Screenshot_2022.11.04_-_04.21.27.29.png)
+![](https://cdn.discordapp.com/attachments/1030994734182834228/1037934752885387284/Desktop_Screenshot_2022.11.04_-_04.21.19.40.png)
+
+
+
+
 # Project Sloth MDT 
 
 For all support questions, ask in our Discord support chat. Do not create issues if you need help. Issues are for bug reporting and new features only.
@@ -16,11 +24,6 @@ For all support questions, ask in our Discord support chat. Do not create issues
 ![](https://i.imgur.com/WVEDLnJ.png)
 
 - **My dispatch calls are not being populated?** - You have not started the dispatch resource before the mdt or renamed the dispatch resource name and not made the necessary changes in mdt to reflect that. 
-
-## EchoRP MDT QBCore Edit (WIP)
-
-EchoRP MDT Released by Flawws#9999 from Echo RP rewritten and restructured for QBCore. 
-This is no longer a fork so we are able to open issues on this repo.
 
 # DMCA Protection Certificate
 ![image](https://user-images.githubusercontent.com/82112471/183939077-c714b08b-77cc-49c6-a94a-3064856d90b9.png)
