@@ -21,7 +21,6 @@ For all support questions, ask in our Discord support chat. Do not create issues
 ## FAQ
 - **How do I add charges to a criminal in an Incident?** - After finding and adding the criminal citizen to the incident, right-click in the space under the criminal's name and select "Add Charge".
 
-![](https://i.imgur.com/WVEDLnJ.png)
 
 - **My dispatch calls are not being populated?** - You have not started the dispatch resource before the mdt or renamed the dispatch resource name and not made the necessary changes in mdt to reflect that. 
 
